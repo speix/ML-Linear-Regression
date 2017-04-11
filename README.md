@@ -8,4 +8,3 @@ Implementation of Linear Regression on multiple features using Gradient Descent 
 ```
 python regression.py training-set.csv output.csv
 ```
-### Results
